@@ -1,0 +1,12 @@
+C:\Users\Xavie\OneDrive\Documents\level two folder\API for one\bin\Release\net9.0\publish\API for one.exe
+C:\Users\Xavie\OneDrive\Documents\level two folder\API for one\bin\Release\net9.0\publish\appsettings.Development.json
+C:\Users\Xavie\OneDrive\Documents\level two folder\API for one\bin\Release\net9.0\publish\appsettings.json
+C:\Users\Xavie\OneDrive\Documents\level two folder\API for one\bin\Release\net9.0\publish\API for one.dll
+C:\Users\Xavie\OneDrive\Documents\level two folder\API for one\bin\Release\net9.0\publish\API for one.deps.json
+C:\Users\Xavie\OneDrive\Documents\level two folder\API for one\bin\Release\net9.0\publish\API for one.runtimeconfig.json
+C:\Users\Xavie\OneDrive\Documents\level two folder\API for one\bin\Release\net9.0\publish\API for one.pdb
+C:\Users\Xavie\OneDrive\Documents\level two folder\API for one\bin\Release\net9.0\publish\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Xavie\OneDrive\Documents\level two folder\API for one\bin\Release\net9.0\publish\Microsoft.OpenApi.dll
+C:\Users\Xavie\OneDrive\Documents\level two folder\API for one\bin\Release\net9.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Xavie\OneDrive\Documents\level two folder\API for one\bin\Release\net9.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Xavie\OneDrive\Documents\level two folder\API for one\bin\Release\net9.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll

@@ -1,0 +1,36 @@
+C:\Users\Xavie\OneDrive\Documents\level two folder\API for one\bin\Release\net9.0\appsettings.Development.json
+C:\Users\Xavie\OneDrive\Documents\level two folder\API for one\bin\Release\net9.0\appsettings.json
+C:\Users\Xavie\OneDrive\Documents\level two folder\API for one\bin\Release\net9.0\API for one.staticwebassets.endpoints.json
+C:\Users\Xavie\OneDrive\Documents\level two folder\API for one\bin\Release\net9.0\API for one.exe
+C:\Users\Xavie\OneDrive\Documents\level two folder\API for one\bin\Release\net9.0\API for one.deps.json
+C:\Users\Xavie\OneDrive\Documents\level two folder\API for one\bin\Release\net9.0\API for one.runtimeconfig.json
+C:\Users\Xavie\OneDrive\Documents\level two folder\API for one\bin\Release\net9.0\API for one.dll
+C:\Users\Xavie\OneDrive\Documents\level two folder\API for one\bin\Release\net9.0\API for one.pdb
+C:\Users\Xavie\OneDrive\Documents\level two folder\API for one\bin\Release\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Xavie\OneDrive\Documents\level two folder\API for one\bin\Release\net9.0\Microsoft.OpenApi.dll
+C:\Users\Xavie\OneDrive\Documents\level two folder\API for one\bin\Release\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Xavie\OneDrive\Documents\level two folder\API for one\bin\Release\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Xavie\OneDrive\Documents\level two folder\API for one\bin\Release\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Xavie\OneDrive\Documents\level two folder\API for one\obj\Release\net9.0\API for one.csproj.AssemblyReference.cache
+C:\Users\Xavie\OneDrive\Documents\level two folder\API for one\obj\Release\net9.0\rpswa.dswa.cache.json
+C:\Users\Xavie\OneDrive\Documents\level two folder\API for one\obj\Release\net9.0\API for one.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Xavie\OneDrive\Documents\level two folder\API for one\obj\Release\net9.0\API for one.AssemblyInfoInputs.cache
+C:\Users\Xavie\OneDrive\Documents\level two folder\API for one\obj\Release\net9.0\API for one.AssemblyInfo.cs
+C:\Users\Xavie\OneDrive\Documents\level two folder\API for one\obj\Release\net9.0\API for one.csproj.CoreCompileInputs.cache
+C:\Users\Xavie\OneDrive\Documents\level two folder\API for one\obj\Release\net9.0\API for one.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Xavie\OneDrive\Documents\level two folder\API for one\obj\Release\net9.0\API for one.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Xavie\OneDrive\Documents\level two folder\API for one\obj\Release\net9.0\API for one.sourcelink.json
+C:\Users\Xavie\OneDrive\Documents\level two folder\API for one\obj\Release\net9.0\rjimswa.dswa.cache.json
+C:\Users\Xavie\OneDrive\Documents\level two folder\API for one\obj\Release\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\Xavie\OneDrive\Documents\level two folder\API for one\obj\Release\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\Xavie\OneDrive\Documents\level two folder\API for one\obj\Release\net9.0\scopedcss\bundle\API for one.styles.css
+C:\Users\Xavie\OneDrive\Documents\level two folder\API for one\obj\Release\net9.0\staticwebassets.build.json
+C:\Users\Xavie\OneDrive\Documents\level two folder\API for one\obj\Release\net9.0\staticwebassets.build.json.cache
+C:\Users\Xavie\OneDrive\Documents\level two folder\API for one\obj\Release\net9.0\staticwebassets.development.json
+C:\Users\Xavie\OneDrive\Documents\level two folder\API for one\obj\Release\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Xavie\OneDrive\Documents\level two folder\API for one\obj\Release\net9.0\API for .5EFDDCE9.Up2Date
+C:\Users\Xavie\OneDrive\Documents\level two folder\API for one\obj\Release\net9.0\API for one.dll
+C:\Users\Xavie\OneDrive\Documents\level two folder\API for one\obj\Release\net9.0\refint\API for one.dll
+C:\Users\Xavie\OneDrive\Documents\level two folder\API for one\obj\Release\net9.0\API for one.pdb
+C:\Users\Xavie\OneDrive\Documents\level two folder\API for one\obj\Release\net9.0\API for one.genruntimeconfig.cache
+C:\Users\Xavie\OneDrive\Documents\level two folder\API for one\obj\Release\net9.0\ref\API for one.dll

@@ -21,6 +21,8 @@ if (app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 app.MapControllers();
+app.MapGet("/", () => "API is running on Azure!");
+
 
 app.Run();
 
